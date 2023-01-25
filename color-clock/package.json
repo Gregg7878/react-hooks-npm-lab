@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/react-hooks-npm-lab/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/react-hooks-npm-lab#readme"
+  "homepage": "https://github.com/learn-co-curriculum/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.2.0"
+  }
 }
